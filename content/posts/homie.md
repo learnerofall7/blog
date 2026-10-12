@@ -62,11 +62,11 @@ All future progress and features will be posted on my blog, so stay tuned for fu
 
 # Link to the git repository 
 
-Click on this [link !](https://github.com/hadi-el-hajj/homie)
+Click on this [link !](https://github.com/learnerofall7/homie)
 
 # Test the application
 
-To test, you can click [here](https://hadi-el-hajj.github.io/homie/)
+To test, you can click [here](https://learnerofall7.github.io/homie/)
 
 # News 
 

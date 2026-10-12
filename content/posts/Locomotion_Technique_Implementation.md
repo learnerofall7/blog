@@ -8,7 +8,7 @@ This post will mainly cover how I went from my intial idea pitch (read more in m
 
 As you may know, scripts are implemented in C# in Unity. The post will then contain snippets of C# code followed by an explanation of why I made the choices I made regarding the method of implementation. 
 
-The full code is available on: https://github.com/hadi-el-hajj/SupermanLocomotionTechnique
+The full code is available on: https://github.com/learnerofall7/SupermanLocomotionTechnique
 
 **Let's start !**
 

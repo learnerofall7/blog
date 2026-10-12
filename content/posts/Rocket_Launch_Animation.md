@@ -11,7 +11,7 @@ In one of my courses at Ecole Polytechnique, I was asked to work on a computer a
 The project relied heavily on a library called VCL for Visual Component Library, which was crafted by our then professor Dr. Damien ROHMER, and put to use for the sake of the course. The library can be found at: https://github.com/drohmer/inf585_vcl. In order to build and run the project to replicate results, you are going to need to import the library to the project's root folder. All will be descrived in the README attached to my git repository. 
 
 ## Where to find the project: 
-The project can be found at: https://github.com/hadi-el-hajj/Rocket-Launch-Simulation. Follow the instructions in the README file. 
+The project can be found at: https://github.com/learnerofall7/Rocket-Launch-Simulation. Follow the instructions in the README file. 
 
 ## Results: 
 Results can be seen in the video Animation.mkv present in the project's root folder. 

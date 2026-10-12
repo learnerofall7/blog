@@ -92,11 +92,11 @@ These upgrades may not come at once, but sequentially. Stay tuned for future pos
 
 # Link to the git repository 
 
-Click on this [link !](https://github.com/hadi-el-hajj/homie)
+Click on this [link !](https://github.com/learnerofall7/homie)
 
 # Test the application
 
-To test, you can click [here](https://hadi-el-hajj.github.io/homie/)
+To test, you can click [here](https://learnerofall7.github.io/homie/)
 
 
 

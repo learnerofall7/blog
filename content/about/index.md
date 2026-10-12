@@ -18,6 +18,6 @@ I am open to meaningful discussions, questions or any request you may have.
 
 Do not hesitate to shoot me an email at **hadi.el-hajj@polytechnque.edu** for any enquiry, I guarantee I will respond !
 
-Also, do not hesitate to check [my github](https://github.com/hadi-el-hajj/), for I frequently update it with my most recent projects !
+Also, do not hesitate to check [my github](https://github.com/learnerofall7/), for I frequently update it with my most recent projects !
 
 Hope you like what I do ! Take care ! 
