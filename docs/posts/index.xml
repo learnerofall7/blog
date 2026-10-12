@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Hadi El Hajj</title>
-    <link>https://hadi-el-hajj.github.io/blog/posts/</link>
+    <link>https://learnerofall7.github.io/blog/posts/</link>
     <description>Recent content in Posts on Hadi El Hajj</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Aug 2021 22:04:36 +0200</lastBuildDate><atom:link href="https://hadi-el-hajj.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 08 Aug 2021 22:04:36 +0200</lastBuildDate><atom:link href="https://learnerofall7.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Coup</title>
-      <link>https://hadi-el-hajj.github.io/blog/posts/coup/</link>
+      <link>https://learnerofall7.github.io/blog/posts/coup/</link>
       <pubDate>Sun, 08 Aug 2021 22:04:36 +0200</pubDate>
       
-      <guid>https://hadi-el-hajj.github.io/blog/posts/coup/</guid>
+      <guid>https://learnerofall7.github.io/blog/posts/coup/</guid>
       <description>Introduction Coup is a card game I have been wanting to try and code for a long time now. I was introduced to it by one of my closest friends and it has been ever since one of the greatest card games/game I have ever played.
 The game revolves around four champions, mainly the Ace, the King, the Queen and the Jack, while all other cards are coins.
 I won&amp;rsquo;t go over all the rules right now, as this post intends to summarize the thoughts that led to my choices of the used technologies and programming languages and frameworks.</description>
@@ -20,10 +20,10 @@ I won&amp;rsquo;t go over all the rules right now, as this post intends to summa
     
     <item>
       <title>Homie - 2</title>
-      <link>https://hadi-el-hajj.github.io/blog/posts/homie_2/</link>
+      <link>https://learnerofall7.github.io/blog/posts/homie_2/</link>
       <pubDate>Sun, 08 Aug 2021 13:55:01 +0200</pubDate>
       
-      <guid>https://hadi-el-hajj.github.io/blog/posts/homie_2/</guid>
+      <guid>https://learnerofall7.github.io/blog/posts/homie_2/</guid>
       <description>Introduction This is the second part of my blog series on Homie, an application I am building. For the first part, go to part one !
 In this post, I intend to give you a glimpse of the progress I was able to make on the application, style-wise, but also feature-wise.
 Alike the first part, I will go through the different parts of the application, and display them one by one while explaining what upgrades were made to them.</description>
@@ -31,10 +31,10 @@ Alike the first part, I will go through the different parts of the application, 
     
     <item>
       <title>Learning RxJS</title>
-      <link>https://hadi-el-hajj.github.io/blog/posts/learning_rxjs/</link>
+      <link>https://learnerofall7.github.io/blog/posts/learning_rxjs/</link>
       <pubDate>Sat, 19 Jun 2021 23:21:40 +0200</pubDate>
       
-      <guid>https://hadi-el-hajj.github.io/blog/posts/learning_rxjs/</guid>
+      <guid>https://learnerofall7.github.io/blog/posts/learning_rxjs/</guid>
       <description>I lately got into learning reactive programming, especailly RxJS, and in this post, I will be listing resources I found very insightful for beginners.
 List of links First off, you can start by reading the very good primer which is avaiable on Learn RxJS. Follow this link:
 RxJs Primer
@@ -45,20 +45,20 @@ Once you&amp;rsquo;ve got a glimpse of how you can use observables and how opera
     
     <item>
       <title>Homie</title>
-      <link>https://hadi-el-hajj.github.io/blog/posts/homie/</link>
+      <link>https://learnerofall7.github.io/blog/posts/homie/</link>
       <pubDate>Tue, 08 Jun 2021 23:06:40 +0200</pubDate>
       
-      <guid>https://hadi-el-hajj.github.io/blog/posts/homie/</guid>
+      <guid>https://learnerofall7.github.io/blog/posts/homie/</guid>
       <description>Introduction Homie is an angular application I am working on. It helps you keep track of all your home chores and is your best friend around the house !
 It is simple, the list of tasks you have to do is available on the website, per machine, and once a task is done, it is marked as completed until it is time to do it again, say, in two weeks !</description>
     </item>
     
     <item>
       <title>Real time fiber level cloth rendering</title>
-      <link>https://hadi-el-hajj.github.io/blog/posts/real_time_fiber_level_cloth_rendering/</link>
+      <link>https://learnerofall7.github.io/blog/posts/real_time_fiber_level_cloth_rendering/</link>
       <pubDate>Sun, 06 Jun 2021 22:38:08 +0200</pubDate>
       
-      <guid>https://hadi-el-hajj.github.io/blog/posts/real_time_fiber_level_cloth_rendering/</guid>
+      <guid>https://learnerofall7.github.io/blog/posts/real_time_fiber_level_cloth_rendering/</guid>
       <description>This post intends to share images from a project I loved working on, and which helped me understand the rendering pipeline in 3D graphics much more than I did before.
 I implemented parts of the paper Real Time Fiber-Level Cloth Rendering, which you can find here !
 The repository can be found on my GitHub ! PLease cite both me and the author of the paper if you happen to use or be inspired by my code !</description>
@@ -66,20 +66,20 @@ The repository can be found on my GitHub ! PLease cite both me and the author of
     
     <item>
       <title>Rocket Launch Animation</title>
-      <link>https://hadi-el-hajj.github.io/blog/posts/rocket_launch_animation/</link>
+      <link>https://learnerofall7.github.io/blog/posts/rocket_launch_animation/</link>
       <pubDate>Tue, 06 Apr 2021 15:51:48 +0200</pubDate>
       
-      <guid>https://hadi-el-hajj.github.io/blog/posts/rocket_launch_animation/</guid>
+      <guid>https://learnerofall7.github.io/blog/posts/rocket_launch_animation/</guid>
       <description>Overview: In one of my courses at Ecole Polytechnique, I was asked to work on a computer animation for end of the class grading. I chose to work on a simplistic Rocket Launch Animation, and this post intends to show some results, as well as lead you to the project&amp;rsquo;s source files and code.
 Notice before starting: The project relied heavily on a library called VCL for Visual Component Library, which was crafted by our then professor Dr.</description>
     </item>
     
     <item>
       <title>Locomotion Technique Implementation</title>
-      <link>https://hadi-el-hajj.github.io/blog/posts/locomotion_technique_implementation/</link>
+      <link>https://learnerofall7.github.io/blog/posts/locomotion_technique_implementation/</link>
       <pubDate>Sat, 06 Mar 2021 13:29:37 +0100</pubDate>
       
-      <guid>https://hadi-el-hajj.github.io/blog/posts/locomotion_technique_implementation/</guid>
+      <guid>https://learnerofall7.github.io/blog/posts/locomotion_technique_implementation/</guid>
       <description>This post will mainly cover how I went from my intial idea pitch (read more in my Locomotion Technique Pitch post) to the implementation of the technique.
 As you may know, scripts are implemented in C# in Unity. The post will then contain snippets of C# code followed by an explanation of why I made the choices I made regarding the method of implementation.
 The full code is available on: https://github.</description>
@@ -87,30 +87,30 @@ The full code is available on: https://github.</description>
     
     <item>
       <title>Unity Roll a Ball Implementation</title>
-      <link>https://hadi-el-hajj.github.io/blog/posts/unity_roll_a_ball_implementation/</link>
+      <link>https://learnerofall7.github.io/blog/posts/unity_roll_a_ball_implementation/</link>
       <pubDate>Sat, 06 Mar 2021 01:03:10 +0100</pubDate>
       
-      <guid>https://hadi-el-hajj.github.io/blog/posts/unity_roll_a_ball_implementation/</guid>
+      <guid>https://learnerofall7.github.io/blog/posts/unity_roll_a_ball_implementation/</guid>
       <description>This post describes briefly how I implemented Roll a Ball in Unity, what difficulties I faced as a beginner and how I overcame them. Additionally in the end you can find some captures I took of the Unity screen and the game screen.
 What is Rall a Ball ? Roll a Ball is a minigame where the player controls a small ball and has to roll it to collect the most collectibles possible (which can take any form possible), hence the name.</description>
     </item>
     
     <item>
       <title>Locomotion Technique Pitch</title>
-      <link>https://hadi-el-hajj.github.io/blog/posts/locomotion_technique_pitch/</link>
+      <link>https://learnerofall7.github.io/blog/posts/locomotion_technique_pitch/</link>
       <pubDate>Sat, 06 Mar 2021 00:15:18 +0100</pubDate>
       
-      <guid>https://hadi-el-hajj.github.io/blog/posts/locomotion_technique_pitch/</guid>
+      <guid>https://learnerofall7.github.io/blog/posts/locomotion_technique_pitch/</guid>
       <description>In this post, I will walk you through my pitch slide deck. The deck was intended to give insight on the locomotion technique I had chosen to implement, as well as why I had chosen this method in particular and the goal of said method.
 SLIDE DECK START SLIDE DECK END </description>
     </item>
     
     <item>
       <title>Final Presentation of my locomotion technique</title>
-      <link>https://hadi-el-hajj.github.io/blog/posts/final_presentation/</link>
+      <link>https://learnerofall7.github.io/blog/posts/final_presentation/</link>
       <pubDate>Fri, 05 Mar 2021 23:44:29 +0100</pubDate>
       
-      <guid>https://hadi-el-hajj.github.io/blog/posts/final_presentation/</guid>
+      <guid>https://learnerofall7.github.io/blog/posts/final_presentation/</guid>
       <description>This post is dedicated to showcasing my final presentation and what it contained (slide deck mainly). My presentation tried to cover the following three topics:
 The concept : Focusing on the idea of the interaction - For more info please refer to the Locomotion Technique Pitch post I made
 Implementation : Explaining the logic behind my implementation and challenges that I had during the implementation and how I solved them - For more info please refer to the Locomotion Technique Implementation post I made</description>
@@ -118,10 +118,10 @@ Implementation : Explaining the logic behind my implementation and challenges th
     
     <item>
       <title>Evaluating the Superman Locomotion Technique</title>
-      <link>https://hadi-el-hajj.github.io/blog/posts/evaluating_superman/</link>
+      <link>https://learnerofall7.github.io/blog/posts/evaluating_superman/</link>
       <pubDate>Thu, 04 Mar 2021 10:43:16 +0100</pubDate>
       
-      <guid>https://hadi-el-hajj.github.io/blog/posts/evaluating_superman/</guid>
+      <guid>https://learnerofall7.github.io/blog/posts/evaluating_superman/</guid>
       <description>As you have seen in my previous blog post, VR Locomotion Pitch, I have chosen the Superman Locomotion technique as the technique I will be implementing and evaluating.
 For the implementation part, check my VR Locomotion Implementation blog.
 The evaluation process always starts by deciding which variables we are going to assess and focus on to determine wether our technique is good or not.
@@ -130,29 +130,29 @@ The variables I went by were the following:</description>
     
     <item>
       <title>Setting up Unity</title>
-      <link>https://hadi-el-hajj.github.io/blog/posts/setting_up_unity/</link>
+      <link>https://learnerofall7.github.io/blog/posts/setting_up_unity/</link>
       <pubDate>Sat, 20 Feb 2021 11:09:23 +0100</pubDate>
       
-      <guid>https://hadi-el-hajj.github.io/blog/posts/setting_up_unity/</guid>
+      <guid>https://learnerofall7.github.io/blog/posts/setting_up_unity/</guid>
       <description>Setting Unity was not very hard. Nonetheless, it is great to have a simple guide at your disposition upon installation so you can go faster. I will lay it out for you !
 REMARK : I love using Linux, but unfortunately Unity is not fully supported there yet. So if you are indeed using the Linux OS, I would recommend you use windows or mac instead. Nonetheless, keep checking the unity website for updates, the launch of the Linux supported version should be released in 2021 !</description>
     </item>
     
     <item>
       <title>Setting up my Blog</title>
-      <link>https://hadi-el-hajj.github.io/blog/posts/setting_up_the_blog/</link>
+      <link>https://learnerofall7.github.io/blog/posts/setting_up_the_blog/</link>
       <pubDate>Mon, 18 Jan 2021 15:32:37 +0100</pubDate>
       
-      <guid>https://hadi-el-hajj.github.io/blog/posts/setting_up_the_blog/</guid>
+      <guid>https://learnerofall7.github.io/blog/posts/setting_up_the_blog/</guid>
       <description>Installing Hugo ! Installing Hugo was not hard since I was using Linux. This said, I did encounter some difficulties with version updates. I wanted at first to use Introduction, but the theme needed higher versions of HUgo. After figuring out how to upgrade the distribution I had (see images below of the problem as mentioned on Stack Overflow) (a simple sudo apt&amp;hellip; did not work, installing hugo through Ubuntu Software neither) and getting Introduction to build, I had another issue which is cited on the theme&amp;rsquo;s Github page, but I was already a bit off the theme and just wanted to choose a new one at this stage.</description>
     </item>
     
     <item>
       <title>The Ultimate Display by Ivan E. Sutherland</title>
-      <link>https://hadi-el-hajj.github.io/blog/posts/the_ultimate_display/</link>
+      <link>https://learnerofall7.github.io/blog/posts/the_ultimate_display/</link>
       <pubDate>Mon, 18 Jan 2021 14:12:05 +0100</pubDate>
       
-      <guid>https://hadi-el-hajj.github.io/blog/posts/the_ultimate_display/</guid>
+      <guid>https://learnerofall7.github.io/blog/posts/the_ultimate_display/</guid>
       <description>Review of Ivan Sutherland&amp;rsquo;s THE ULTIMATE DISPLAY This blog post is intended to try and analyze how Sutherland&amp;rsquo;s Ultimate Display fits into the Reality-Virtuality Continuum of Milgram. First, let me import the representation of the RV continuum:
 In the light of this refresher, it feels that Sutherland&amp;rsquo;s ultimate display traces the lines between a Real Environment and a Virtual Environment, and thus is surrounding the continuum.
 In fact, Sutherland talks extensively about the relashionship between virtual environments and real environments, and the fact that virtual environments can make us apprehend more and more what can and cannot happen in the real world.</description>
@@ -160,20 +160,20 @@ In fact, Sutherland talks extensively about the relashionship between virtual en
     
     <item>
       <title>Hyper-Reality by Keiichi Matsuda</title>
-      <link>https://hadi-el-hajj.github.io/blog/posts/hyper_reality/</link>
+      <link>https://learnerofall7.github.io/blog/posts/hyper_reality/</link>
       <pubDate>Mon, 21 Dec 2020 11:09:12 +0100</pubDate>
       
-      <guid>https://hadi-el-hajj.github.io/blog/posts/hyper_reality/</guid>
+      <guid>https://learnerofall7.github.io/blog/posts/hyper_reality/</guid>
       <description>Review of the HYper-Reality video ! Hyper reality presents multiple scenarios where the user is subjected to potential dangers, from which we can cite both being hacked and being bombarbed by waves and waves of commercials. This said, it is too short to englobe all the possibility of dangers, which include:
   being trolled on the internet. Imagine posting a social media post and receiving such criticism that you become an internet meme.</description>
     </item>
     
     <item>
       <title>Welcome !</title>
-      <link>https://hadi-el-hajj.github.io/blog/posts/welcome/</link>
+      <link>https://learnerofall7.github.io/blog/posts/welcome/</link>
       <pubDate>Mon, 30 Nov 2020 00:40:09 +0100</pubDate>
       
-      <guid>https://hadi-el-hajj.github.io/blog/posts/welcome/</guid>
+      <guid>https://learnerofall7.github.io/blog/posts/welcome/</guid>
       <description>Hello there ! Awesome to see you !
 Welcome to my personal website where I will be showcasing some of the projects I worked on, and also discussing some of the subjects I find interesting !
 Feel free to read my posts, and come back to me for feedback anytime !

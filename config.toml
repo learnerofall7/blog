@@ -2,7 +2,7 @@ languageCode = "en-us"
 title = "Hadi El Hajj"
 theme = "hugo-theme-console"
 publishDir= "docs" 
-baseURL = "https://hadi-el-hajj.github.io/blog/"
+baseURL = "https://learnerofall7.github.io/blog/"
 
 # Allow raw html to be rendered
 [markup]
